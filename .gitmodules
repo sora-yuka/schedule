@@ -1,3 +1,6 @@
 [submodule "student-schedule__client"]
 	path = student-schedule__client
 	url = https://github.com/sora-yuka/student-schedule-client.git
+[submodule "student-schedule__server"]
+	path = student-schedule__server
+	url = https://github.com/sora-yuka/student-schedule-server.git
