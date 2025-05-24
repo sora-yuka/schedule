@@ -145,7 +145,7 @@ _Далее, идет настройка и запуск client/server по от
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[product-screenshot]: ./images/image.png
+[product-screenshot]: ./images/demo-product.png
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
 [DjangoRest]: https://img.shields.io/badge/Django_REST-Stack?style=for-the-badge&logo=django&logoColor=%23802D2D&color=%23FFF
